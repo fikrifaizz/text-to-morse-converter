@@ -77,4 +77,4 @@ text-to-morse-converter/
 
 ## Demo Aplikasi
 
-![Demo Aplikasi](assets/demo_app.gif)
+![Demo Aplikasi](https://github.com/user-attachments/assets/c833caac-439e-42a1-ac22-2b2f53d54f03)
